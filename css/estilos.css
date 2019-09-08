@@ -49,3 +49,5 @@ figure img {
 	perspective:(3000px);
 	-webkit-perspective: 3000px;
 }
+#imagen2 img{
+	transform: rotateY(-30deg);
