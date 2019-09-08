@@ -45,3 +45,7 @@ figure img {
 	transform: rotateY(40deg);
 
 }
+#imagen2 {
+	perspective:(3000px);
+	-webkit-perspective: 3000px;
+}
