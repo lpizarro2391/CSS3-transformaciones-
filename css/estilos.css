@@ -56,3 +56,7 @@ figure img {
 	perspective:(100px);
 	-webkit-perspective: 100px;
 }
+
+#imagen3 img{
+	transform: rotateX(40deg);
+}
