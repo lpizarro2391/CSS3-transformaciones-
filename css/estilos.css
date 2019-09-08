@@ -42,6 +42,6 @@ figure img {
 }
 
 #imagen1 img{
-	transform: rotateY(40);
+	transform: rotateY(40deg);
 
 }
