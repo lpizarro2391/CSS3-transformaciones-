@@ -51,3 +51,8 @@ figure img {
 }
 #imagen2 img{
 	transform: rotateY(-30deg);
+}
+#imagen3 {
+	perspective:(100px);
+	-webkit-perspective: 100px;
+}
