@@ -14,11 +14,6 @@ header {
 #contenido {
 	margin: 1%;
 }
-#imagen1 {
-	perspective:(2000px);
-	-webkit-perspective: 2000px;
-
-}
 
 header h1 {
 	padding-left: 1%;
@@ -40,4 +35,13 @@ figure {
 
 figure img {
 	width: 420px;
+}
+#imagen1 {
+	perspective:(2000px);
+	-webkit-perspective: 2000px;
+}
+
+#imagen1 img{
+	transform: rotateY(40);
+
 }
